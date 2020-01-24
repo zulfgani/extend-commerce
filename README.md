@@ -1,7 +1,7 @@
 # Extend Commerce
 Theme agnostic functions that extends upon the Classic Commerce plugin. 
  
-Contributors: CPEngineered
+Contributors: CPEngineered   
 Donate link: https://cpengineered.com   
 Tags: classic commerce, commerce, functions, options, settings
 Requires at least: 1.0.0
